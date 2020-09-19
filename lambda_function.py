@@ -151,7 +151,7 @@ def create_tweet_time(utc_time, hours=hours, minutes=minutes):
     elif m in range(31,58):
         tweet_time = '%s %s' % (minutes[m], hours[h+1])
     elif m in range(31,58):
-        tweet_time = '%s %s %s' % (minutes[m], hours[h+1], 'o\' clock')
+        tweet_time = '%s %s %s' % (minutes[m], hours[h+1], 'o\'clock')
     
     return tweet_time
     
