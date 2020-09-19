@@ -1,4 +1,4 @@
-# IsItThatTimeAlready
+# Is It That Time Already, Is It?
 Python code for the Twitter account @IsItDarkAlready.
 
 This code is designed for AWS Lambda with a Python 3.8 runtime, but it should run at least as far back 3.6, and probably even older.
